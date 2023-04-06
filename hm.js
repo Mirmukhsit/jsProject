@@ -14,20 +14,20 @@
 //     console.log("topa olmadi");
 // }
 
-let a = Math.floor(Math.random()*21+50)
-let b = Math.floor(Math.random()*31+100)
-let c = a + b
-let d = Math.pow(c, 1/4)
-console.log("a=",a);
-console.log("b=",b);
-console.log("(a+b)^1/4=",d);
+// let a = Math.floor(Math.random()*21+50)
+// let b = Math.floor(Math.random()*31+100)
+// let c = a + b
+// let d = Math.pow(c, 1/4)
+// console.log("a=",a);
+// console.log("b=",b);
+// console.log("(a+b)^1/4=",d);
 
-let e = Math.floor(d)
-console.log("shu sonning yaxlitlangani:",e);
+// let e = Math.floor(d)
+// console.log("shu sonning yaxlitlangani:",e);
 
-if (e % 2 == 0) {
-    console.log("juft");
-}
-else {
-    console.log("toq");
-}
+// if (e % 2 == 0) {
+//     console.log("juft");
+// }
+// else {
+//     console.log("toq");
+// }

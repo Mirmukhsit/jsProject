@@ -40,12 +40,12 @@
 
 // let arr2 = [1, 2, 3, 4, 5, 6];
 
-// console.log(arr2.reduce((sum, val) => sum+val, 0));
-// let a = arr2.filter(val=> val%2==0).reduce((sum, val) => val+sum, 0);
+// console.log(arr2.reduce((sum, val) => sum+val, 0)); //sonlarni qo'shish
+// let a = arr2.filter(val=> val%2==0).reduce((sum, val) => val+sum, 0); //juft sonlarni qo'sh,
 // console.log(a);
 
 // console.log(arr2.map(val => `${val} ${val%2==1 ? "toq":"juft"} `));
-// console.log(arr2.map(val => `${val} ${val%2==0 && "juft" || "toq"} `));
+// console.log(arr2.map(val => `${val} ${val%2==0 && "juft" || "toq"} `)); // juft, toq aniqlash
 
 
 // let a = 12;

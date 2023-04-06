@@ -97,4 +97,3 @@
 //     console.log(arr);
 // }
 // onCreate(55, "Komil", "Andijon");
-
